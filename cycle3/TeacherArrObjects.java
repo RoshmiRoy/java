@@ -4,7 +4,7 @@ int empid ;
 String  name;
 float salary;
 String address;
-EmployeeT(){}
+//EmployeeT(){}
 
 EmployeeT (int empid , String name, float salary, String address)
 {
